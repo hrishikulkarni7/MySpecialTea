@@ -1,1 +1,1 @@
-Water quantity: 50ml
+Water quantity: 100ml

@@ -3,4 +3,5 @@ Boil water
 Add tea
 Add sugar
 Boil this mixture for 3 minutes
+filter tea
 Serve tea
